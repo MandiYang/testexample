@@ -1,0 +1,92 @@
+Sverige/Stockholm
+Argentina/Buenos Aires
+Kina/Peking
+Indien/New Delhi
+Finland/Helsingfors
+Australien/Canberra
+Papua nya guinea/Port Moresby
+Brasilien/Brasilia
+Sydafrika/Pretoria
+Italien/Rom
+Danmark/Köpenhamn
+Grounland/Nuuk
+Kanada/Ottawa
+Japan/Tokyo
+Ryssland/Moskva
+Iran/Teheran
+Indonesien/Jakarta
+Storbritannien/London
+Nauru/Yaren
+Norge/Oslo
+Tyskland/Berlin
+Spanien/Madrid
+Frankrike/Paris
+Cuba/La Habama
+Usa/Washington D.C
+Portugal/Libanon
+Chile/Santiago
+Mexico/Mexico City
+Senegal/Dakar
+Island/Reykjavik
+Maldiverna/Male
+Thailand/Bangkok
+Nya zealand/Wellington
+Polen/Warszawa
+Nederländerna/Amsterdam
+Vitryssland/Minsk
+Angola/Luanda
+Turkiet/Ankara
+Uganda/Kampala
+Peru/Lima
+Mongoliet/Ulaanbaatar
+Nordkorea/P'yongyang
+Sydkorea/Seoul
+Fiji/Suva
+Venuzuela/Caracas
+Grekland/Athen
+Ireland/Dublin
+Centralafrika/Bangui
+Egypten/Kario
+Ethiopien/Addis Abeba
+Madagaskar/Antananarivo
+Bolivia/Sucre
+Nigeria/Abuja
+Kazakstan/Astana
+Oman/Muskat
+Ukraina/Kiev
+Niue/Alofi
+Panama/Panama City
+Myanmar/Naypyidaw
+Kuwait/Kuwait City
+Kuba/Havanna
+Albanien/Tirana
+Montenegro/Podgorica
+Österrike/Wien
+Lettland/Riga
+Liechtenstein/Vaduz
+Litauen/Vilnius
+Luxemburg/Luxemburg
+Makedonien/Skopje
+Malta/Valletta
+Moldavien/Chisinau
+Monaco/Monaco
+Turkiet/Ankara
+Afghanistan/Kabul
+Armenien/Jerevan
+Azerbajdzjan/Baku
+Bahrain/Manama
+Bangladesh/Dhaka
+Bhutan/Thimphu
+Colombia/Bogota
+Andorra/Andorra la Vella
+Malawi/Lilongwe
+Sydkorea/Seoul
+Syrien/Damaskus
+Bulgarien/Sofia
+Israel/Jerusalem
+Östtimor/Dili
+Seychellerna/Victoria
+Palau/Melekeok
+Singapore/Singapore
+Belgien/Bryssel
+Belarus/Minsk

@@ -1,0 +1,6 @@
+token = Man
+username = __token__
+password = pypi-AgENdGVzdC5weXBpLm9yZwIkNjVjNWM5NjAtMDJhNC00YzJiLTljYmItYmU3MjE0YTkxYjJlAAIleyJwZXJtaXNzaW9ucyI6ICJ1c2VyIiwgInZlcnNpb24iOiAxfQAABiBOAZAzoN4HI1DAELO_E8J_KWRJIyjz_VIXaYI3fzNt6A
+atom token = _t4zp-SA07s2y8wkwBERF_Q
+githubtoken = a9fc2c40ffd3317416b384f8a15fc6e838e3e272
+gittoken2 = b32f1e1460abbe2472264d56890af1a78007cb63
