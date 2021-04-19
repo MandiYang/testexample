@@ -1,4 +1,4 @@
-print('hi')
+print('Hello')
 import random
 list=['i', 'k', 'a']
 k = random.choice(list)
