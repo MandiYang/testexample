@@ -1,2 +1,2 @@
 mandis test
-using atom push
+using atom git push
