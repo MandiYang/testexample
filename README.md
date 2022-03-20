@@ -6,3 +6,6 @@ Testing to upload files
 
 Also it is licensed with the **DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE**, sorry for the swearing content in the license.
 
+ So that means you can do whatever you want :D
+ 
+
