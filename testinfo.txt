@@ -1,2 +1,54 @@
 mandis test
 using atom git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ssh sam@188.151.48.123 
+Password: Op@sa1521
